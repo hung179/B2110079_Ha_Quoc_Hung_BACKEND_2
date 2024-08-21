@@ -1,0 +1,23 @@
+{
+  "name": "contactbook-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hungb2110079/Lab1.git"
+  },
+  "author": "QuocHung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hungb2110079/Lab1/issues"
+  },
+  "homepage": "https://github.com/hungb2110079/Lab1#readme",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
